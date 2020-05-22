@@ -16,10 +16,43 @@
 
 ## 目录
 
-### 第一章 感知机
+### 第2章 感知机
 
 代码： [感知机/perceptron.py](./感知机/perceptron.py)
 
-示例：
+### 第3章 k近邻法
 
-![](./感知机/demo.png)
+代码： [k近邻法/knn.py](./k近邻法/knn.py)
+
+### 第4章 朴素贝叶斯法
+
+代码： [朴素贝叶斯法/naive_bayes.py](./朴素贝叶斯法/naive_bayes.py)
+
+### 第5章 决策树
+
+代码： [决策树/decision_tree.py](./决策树/decision_tree.py)
+
+### 第6章 逻辑斯谛回归与最大熵模型
+
+代码： [逻辑斯谛回归/logistic_regression.py](./逻辑斯谛回归/logistic_regression.py)
+
+### 第7章 支持向量机
+
+代码： [支持向量机/svm.py](./支持向量机/svm.py)
+
+### 第8章 提升方法
+
+代码： [AdaBoost/adaboost.py](./AdaBoost/adaboost.py)
+
+### 第9章 EM算法及其推广
+
+代码： [EM算法/gaussian_mixture.py](./EM算法/gaussian_mixture.py)
+
+### 第10章 隐马尔科夫模型
+
+代码： [隐马尔科夫模型/hmm.py](./隐马尔科夫模型/hmm.py)
+
+### 第11章 条件随机场
+
+模型： [条件随机场/model.py](./条件随机场/model.py)
+训练： [条件随机场/train.py](./条件随机场/train.py)
